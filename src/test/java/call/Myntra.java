@@ -14,7 +14,7 @@ public class Myntra {
 	  WebDriverManager.chromedriver().setup();
 	  driver = new ChromeDriver();
 	  driver.get("https://www.myntra.com/");
-	  driver.manage().deleteAllCookies();
+	  
 	  driver.quit();
 	  
 	  
