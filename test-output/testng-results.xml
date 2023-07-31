@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-29T21:40:16 IST" name="Suite" finished-at="2023-07-29T21:43:39 IST" duration-ms="203249">
+    <groups>
+    </groups>
+    <test started-at="2023-07-29T21:40:16 IST" name="Test" finished-at="2023-07-29T21:43:39 IST" duration-ms="203249">
+      <class name="call.Stop">
+        <test-method signature="verifyflipkart()[pri:0, instance:call.Stop@f5958c9]" started-at="2023-07-29T21:42:05 IST" name="verifyflipkart" finished-at="2023-07-29T21:43:39 IST" duration-ms="94589" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyflipkart -->
+      </class> <!-- call.Stop -->
+      <class name="call.Newcall">
+        <test-method signature="verifycall()[pri:0, instance:call.Newcall@682b2fa]" started-at="2023-07-29T21:40:16 IST" name="verifycall" finished-at="2023-07-29T21:42:05 IST" duration-ms="108613" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifycall -->
+      </class> <!-- call.Newcall -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
