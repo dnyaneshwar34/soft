@@ -6,6 +6,7 @@
       <class name="call.Newcall"/>
       <class name="call.Stop"/>
       <class name="call.Myntra"/>
+      <class name="call.Snapdall"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
